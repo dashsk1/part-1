@@ -1,0 +1,7 @@
+print("¬ведите плей-лист папы:")
+s1 = intput()
+s2 = intput()
+s3 = intput()
+s4 = intput()
+s5 = intput()
+print("ѕлей-лист мамы:", s1, s2, s3, s4, s5, sep="\n")

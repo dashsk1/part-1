@@ -1,0 +1,7 @@
+print("Login: ")
+log = input()
+print("Password: ")
+p = input()
+print("New password: ")
+p = input()
+print("User durov has changed the password to querty")
