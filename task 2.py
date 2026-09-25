@@ -1,1 +1,1 @@
-print("Привет", "Python!", sep=" ")
+п»їprint("РџСЂРёРІРµС‚", "Python!", sep=" ")
