@@ -1,1 +1,1 @@
-print("Привет, Python\nHello, Python!\nBonjour Python!\nHej, Python!\nHola, Python!")
+п»їprint("РџСЂРёРІРµС‚, Python\nHello, Python!\nBonjour Python!\nHej, Python!\nHola, Python!")
